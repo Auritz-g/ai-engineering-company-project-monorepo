@@ -15,10 +15,8 @@ Esta empresa, muestra muchos problemas en distintos departamentos y prácticamen
 
 Las posibilidades de mejora en la cadena son infinitas, y poder ver y trabajar en 3 distintas áreas que definen a los restaurantes, me supone una de las mayores oportunidades de aprendizaje hasta ahora.
 
-## 3. Reto de IA
-El reto de IA que más ganas tengo e construir se trata del motor de personalización.
-
-## Mi idea de Agente de IA
+## 3. Mi idea de Agente de IAA
+El reto de IA que más ganas tengo e construir se trata de un motor de personalización.
 
 Muchas veces, en los restaurantes, ofrecen una carta muy amplia, lo cual, como idea inicial, es ideal. Más opciones es mejor; más entre lo que elegir.
 
