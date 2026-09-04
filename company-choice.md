@@ -18,9 +18,20 @@ Las posibilidades de mejora en la cadena son infinitas, y poder ver y trabajar e
 ## 3. Reto de IA
 El reto de IA que más ganas tengo e construir se trata del motor de personalización.
 
-Muchas veces, en los restaurantes, ofrecen una carta muy amplia, lo cual, como idea inicial es ideal, porque más opciones es mejor, más entre lo que elegir.
+## Mi idea de Agente de IA
 
-Pero siempre surgen las dudas sobre qué quiero comer hoy, que me recomendarían, ¿pero y si no me gusta?
+Muchas veces, en los restaurantes, ofrecen una carta muy amplia, lo cual, como idea inicial, es ideal. Más opciones es mejor; más entre lo que elegir.
 
-Este motor de personalización, permitiría a los clientes que disponen de la aplicación (normalmente serán los más habituales o los que se descarguen la aplicación en el momento) los que tras facilitar información básica sobre sus gustos y nada que resulte personal, el motor de personalización les ayudará a filtrar lo que de la carta puede gustarles y qué recomendaciones tiene para ellos.
+Pero siempre surgen las dudas sobre qué quiero comer hoy, que me recomendarían, ¿pero y si no me gusta?, entonces, lo que en un inicio, con la idea de ofrecer más opciones o un intento de poder servir a más gente, se vuelve en un problema.
 
+ * **Qué haría:**
+   * Analizaría las preferencias del cliente a través de un test rápido o la opción de que el cliente rellene un campo de texto ofreciendo más razonamiento y libertad.
+   * *Cómo lo rellenaría*
+     * El test o el campo a rellenar, se encontraría en la página web o en la app, a la cual se accedería mediante un código QR que se encuentra en la mesa. De esta forma, cliente habitual o no, tendrían acceso al mismo.
+ * **Qué información necesitaría:**
+   * Requiere un acceso a la carta (de esto se encarga Brasaland a la hora de crear y configurarlo) y por otro lado, necesita que el cliente le de suficientes datos sobre gustos, preferencias, alergias o intolerancias.
+   * Para clientes habituales, podría tener acceso al historial de pedidos para ver tendencias en pedidos y ofrecer recomendaciones nuevas o acorde a estas.
+* **Qué produciría:**
+  * Generaría una vista de carta personalizada reducida con las mejores opciones para el cliente habiendo filtrado así lo innecesario o poco probable, acompañada de una recomendación destacada ("Sugerencia del día para ti").
+  * Ofrecería así mismo la opción de ampliar o reducir la carta con un test adicional
+  * Enviaría directamente los platos seleccionados al sistema de pedidos del restaurante.
